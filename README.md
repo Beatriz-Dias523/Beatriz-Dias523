@@ -1,4 +1,4 @@
-- Apaixonada por Marketing
+- Formada em Marketing
 - Aprendendo à Programar
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beatriz-Dias523&show_icons=true&theme=radical)
